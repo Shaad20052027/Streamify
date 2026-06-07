@@ -84,7 +84,7 @@ JWT_SECRET=your_jwt_secret_key
 STREAM_API_KEY=your_stream_api_key
 STREAM_API_SECRET=your_stream_api_secret
 CLIENT_URL=http://localhost:5173
-PORT=5000
+PORT=5001
 ```
 
 ### 3. Frontend setup
